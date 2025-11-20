@@ -112,7 +112,9 @@ We welcome contributions from the community! Here’s how you can help:
    ```bash
    git clone https://github.com/Ysamwel/DERMADELIGHT-Ecommerce.git
 
+## Submission Video Link
 
+-[Video](https://drive.google.com/file/d/1ZvX44-dpbKcn7u2bZETmsTc3UXlHcOpj/view?usp=drive_link)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
